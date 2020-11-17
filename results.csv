@@ -1,0 +1,343 @@
+match counts:222/341,,
+ID,MATCH,未检出原因
+4030030,Is not in any EP rules,
+4030031,Is not in any EP rules,
+4030032,Is not in any EP rules,
+4030033,Is not in any EP rules,
+4030034,Is not in any EP rules,
+4050002, 对DNS设置的攻击,未知
+4050020, 内网机器请求木马的域名,未知
+4050065, 内网机器请求木马的域名,未知
+4050066, 内网机器请求木马的域名,未知
+4050067, 内网机器请求木马的域名,未知
+4050068, 内网机器请求木马的域名,未知
+4050069, 内网机器请求木马的域名,未知
+4050070, 内网机器请求木马的域名,未知
+4050078, 内网机器请求木马的域名,未知
+4050079, 内网机器请求木马的域名,未知
+4060001, 针对web服务的DOS攻击,不满足条件
+4060003, LOIC(或者HOIC) DDoS工具对目的IP发起DDoS攻击,不满足条件
+4060004, LOIC(或者HOIC) DDoS工具对目的IP发起DDoS攻击,不满足条件
+4060005, 针对web服务的DOS攻击,不满足条件
+4060006, 针对web服务的DOS攻击,不满足条件
+4060007, 针对web服务的DOS攻击,不满足条件
+4060008, 对外的DOS攻击,不满足条件
+4060009, 利用ICMP协议漏洞的DOS攻击,不满足条件
+4060010, 利用ICMP协议漏洞的DOS攻击,不满足条件
+4060011, 利用ICMP协议漏洞的DOS攻击,不满足条件
+4060012, 利用ICMP协议漏洞的DOS攻击,不满足条件
+4060013, 利用ICMP协议漏洞的DOS攻击,不满足条件
+4060014, 利用ICMP协议漏洞的DOS攻击,不满足条件
+4060015, 利用ICMP协议漏洞的DOS攻击,不满足条件
+4060016, 利用ICMP协议漏洞的DOS攻击,不满足条件
+4060017, 利用ICMP协议漏洞的DOS攻击,不满足条件
+4060018, 利用ICMP协议漏洞的DOS攻击,不满足条件
+4060019, 利用ICMP协议漏洞的DOS攻击,不满足条件
+4060020, 利用ICMP协议漏洞的DOS攻击,不满足条件
+4060021, 针对ntop的DOS攻击,不满足条件
+4060022, 针对HP数据保护管理器的DOS攻击,不满足条件
+4060026, 利用Winzip 15.0控件漏洞的DOS攻击,不满足条件
+4060027, 利用Winzip 15.0控件漏洞的DOS攻击,不满足条件
+4060029,Is not in any EP rules,
+4060030,Is not in any EP rules,
+4060031, Android木马对外发送设备信息,未知
+4060032, 内网机器NTP服务器被利用对外进行反射放大DDos攻击,不满足条件
+4060033, 内网机器NTP服务器被利用对外进行反射放大DDos攻击,不满足条件
+4060034, 内网机器NTP服务器被利用对外进行反射放大DDos攻击,不满足条件
+4060035, 内网机器NTP服务器被利用对外进行反射放大DDos攻击,不满足条件
+4060036, 内网机器NTP服务器被利用对外进行反射放大DDos攻击,不满足条件
+4060037, 内网机器NTP服务器被利用对外进行反射放大DDos攻击,不满足条件
+4060038, 内网机器NTP服务器被利用对外进行反射放大DDos攻击,不满足条件
+4060039, 内网机器NTP服务器被利用对外进行反射放大DDos攻击,不满足条件
+4060040, 内网机器NTP服务器被利用对外进行反射放大DDos攻击,不满足条件
+4060041, 内网机器NTP服务器被利用对外进行反射放大DDos攻击,不满足条件
+4060042, 内网机器NTP服务器被利用对外进行反射放大DDos攻击,不满足条件
+4060043, 内网机器NTP服务器被利用对外进行反射放大DDos攻击,不满足条件
+4060044, 内网机器NTP服务器被利用对外进行反射放大DDos攻击,不满足条件
+4060045, 内网机器NTP服务器被利用对外进行反射放大DDos攻击,不满足条件
+4060046, 内网机器NTP服务器被利用对外进行反射放大DDos攻击,不满足条件
+4060047, 内网机器NTP服务器被利用对外进行反射放大DDos攻击,不满足条件
+4060048, 内网机器NTP服务器被利用对外进行反射放大DDos攻击,不满足条件
+4060058, 内网机器NTP服务器被利用对外进行反射放大DDos攻击,不满足条件
+4060059, 内网机器NTP服务器被利用对外进行反射放大DDos攻击,不满足条件
+4080006, 针对FTP服务器攻击,未知
+4080007, 针对FTP服务器攻击,未知
+4080008, 针对FTP服务器攻击,未知
+4080009, 针对FTP服务器攻击,未知
+4080010, 针对FTP服务器攻击,未知
+4080011, 针对FTP服务器攻击,未知
+4080012, 针对FTP服务器攻击,未知
+4080013, 针对FTP服务器攻击,未知
+4080014, 针对FTP服务器攻击,未知
+4080015, 针对FTP服务器攻击,未知
+4080016, 针对FTP服务器攻击,未知
+4080017, 针对FTP服务器攻击,未知
+4080018, 针对FTP服务器攻击,未知
+4080019, 针对FTP服务器攻击,未知
+4080020, 针对FTP服务器攻击,未知
+4080021, 针对FTP服务器攻击,未知
+4080022, 针对FTP服务器攻击,未知
+4080023, 针对FTP服务器攻击,未知
+4080024, 针对FTP服务器攻击,未知
+4080025, 针对FTP服务器攻击,未知
+4080026, 针对FTP服务器攻击,未知
+4080027, 针对FTP服务器攻击,未知
+4080028, 针对FTP服务器攻击,未知
+4080029, 针对FTP服务器攻击,未知
+4080030, 针对FTP服务器攻击,未知
+4080031, 针对FTP服务器攻击,未知
+4080032, 针对FTP服务器攻击,未知
+4080033, 针对FTP服务器攻击,未知
+4080034, 针对FTP服务器攻击,未知
+4080035, 针对FTP服务器攻击,未知
+4080036, 针对FTP服务器攻击,未知
+4080037, 针对FTP服务器攻击,未知
+4080038, 针对FTP服务器攻击,未知
+4080039, 针对FTP服务器攻击,未知
+4080040, 针对FTP服务器攻击,未知
+4080041, 针对FTP服务器攻击,未知
+4080051, 惠普智能管理中心TFTP远程代码执行漏洞,未知
+4090019, 针对IMAP服务器暴力破解攻击,次数不满足
+4090020, 针对SMTP服务器暴力破解攻击,次数不满足
+4090022, 针对IMAP服务器暴力破解攻击,次数不满足
+4100008, 木马对外发送密码信息,未知
+4110044, LANMANSERVER 暴力破解攻击,次数不满足
+4120075, EMC AlphaStor Device Manager命令注入,未知
+4120076, EMC AlphaStor Device Manager命令注入,未知
+4120077, EMC AlphaStor Device Manager命令注入,未知
+4120078, EMC AlphaStor Device Manager命令注入,未知
+4120079, EMC AlphaStor Device Manager命令注入,未知
+4120081, OpenSSL Heartbleed漏洞攻击,未知
+4120091, HP Data Protector代码注入,未知
+4120092, HP Data Protector代码注入,未知
+4120100, 针对web服务的DOS攻击,次数不满足
+4120101, HP ProCurve Manager代码注入,未知
+4120102, HP ProCurve Manager代码注入,未知
+4120305, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120306, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120307, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120308, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120309, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120310, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120311, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120312, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120313, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120314, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120315, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120316, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120317, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120318, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120319, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120321, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120323, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120324, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120325, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120326, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120327, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120328, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120329, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120330, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120331, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120332, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120333, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120335, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120336, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120337, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120338, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120339, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120340, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120341, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120342, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120343, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120344, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120346, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120347, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120348, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120350, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120351, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120353, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120354, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120355, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120356, 内网机器请求木马关联的IP,不满足条件：外网IP需匹配威胁情报库IP
+4120363, 内网木马对外发送数据,不满足条件
+4120370, 内网木马对外发送数据,不满足条件
+4120371, 内网木马对外发送数据,不满足条件
+4120372, 内网木马对外发送数据,不满足条件
+4120373, 内网木马对外发送数据,不满足条件
+4120374, 内网木马对外发送数据,不满足条件
+4120377, 内网木马对外发送数据,不满足条件
+4120378, 内网木马对外发送数据,不满足条件
+4120487, 内网木马对外发送数据,不满足条件
+4120489, 内网木马对外发送数据,不满足条件
+4120490, 内网木马对外发送数据,不满足条件
+4120491, 内网木马对外发送数据,不满足条件
+4120492, 内网木马对外发送数据,不满足条件
+4120493, 内网木马对外发送数据,不满足条件
+4120510, 利用SCADA系统漏洞代码执行攻击,未知
+4130038, 内网机器访问外网的IP查询网站,不满足条件
+4140001, 利用远程桌面协议漏洞远程代码执行,未知
+4140002, 利用远程桌面协议漏洞远程代码执行,未知
+4140003, 利用远程桌面协议漏洞远程代码执行,未知
+4140004, 利用远程桌面协议漏洞远程代码执行,未知
+4140005, 利用远程桌面协议漏洞远程代码执行,未知
+4140006, 利用远程桌面协议漏洞远程代码执行,未知
+4140007, 利用远程桌面协议漏洞远程代码执行,未知
+4140008, 利用远程桌面协议漏洞远程代码执行,未知
+4140009, 利用远程桌面协议漏洞远程代码执行,未知
+4140010, 利用远程桌面协议漏洞远程代码执行,未知
+4140011, 利用远程桌面协议漏洞远程代码执行,未知
+4140012, 利用远程桌面协议漏洞远程代码执行,未知
+4140013, 利用远程桌面协议漏洞远程代码执行,未知
+4140014, 利用远程桌面协议漏洞远程代码执行,未知
+4140015, 利用远程桌面协议漏洞远程代码执行,未知
+4140016, 利用远程桌面协议漏洞远程代码执行,未知
+4140017, 利用远程桌面协议漏洞远程代码执行,未知
+4140018, 利用远程桌面协议漏洞远程代码执行,未知
+4140023, 利用远程桌面协议漏洞远程代码执行,未知
+4150001, 利用远程桌面协议漏洞远程代码执行,未知
+4150044, 利用远程桌面协议漏洞远程代码执行,未知
+4150045, 利用远程桌面协议漏洞远程代码执行,未知
+4150083, 利用远程桌面协议漏洞远程代码执行,未知
+4150084, 利用远程桌面协议漏洞远程代码执行,未知
+4160005, 利用SCADA系统漏洞代码执行攻击,未知
+4160008, 利用SCADA系统漏洞代码执行攻击,未知
+4160009, 利用SCADA系统漏洞代码执行攻击,未知
+4160012, 利用SCADA系统漏洞代码执行攻击,未知
+4160014, 利用SCADA系统漏洞代码执行攻击,未知
+4160076, 利用SCADA系统漏洞代码执行攻击,未知
+4160077, 利用SCADA系统漏洞代码执行攻击,未知
+4160122, 利用SCADA系统漏洞代码执行攻击,未知
+4160125, 利用SCADA系统漏洞代码执行攻击,未知
+4160126, 利用SCADA系统漏洞代码执行攻击,未知
+4160127, 利用SCADA系统漏洞代码执行攻击,未知
+4160128, 利用SCADA系统漏洞代码执行攻击,未知
+4160129, 利用SCADA系统漏洞代码执行攻击,未知
+4160130, 利用SCADA系统漏洞代码执行攻击,未知
+4170010, 针对目标web扫描,未知
+4170033, 针对目标web扫描,未知
+4170035, 针对目标web扫描,未知
+4170056, Tomcat爆破攻击,次数不满足
+4170057, Tomcat爆破攻击,次数不满足
+4170090, 针对目标web扫描,次数不满足
+4170091, 针对目标web扫描,次数不满足
+4170107, 针对POP3服务器身份验证攻击,次数不满足
+4170109, FTP服务器暴力破解攻击,次数不满足
+4170110, FTP服务器暴力破解攻击,次数不满足
+4170112, 针对目的IP的SSH认证攻击,次数不满足
+4170123, 针对POP3服务器身份验证攻击,次数不满足
+4170136, 针对目标web扫描,未知
+4221663,Is not in any EP rules,
+4221664,Is not in any EP rules,
+4230088,Is not in any EP rules,
+4230089,Is not in any EP rules,
+4230090,Is not in any EP rules,
+4230091,Is not in any EP rules,
+4230092,Is not in any EP rules,
+4230093,Is not in any EP rules,
+4230094,Is not in any EP rules,
+4230095,Is not in any EP rules,
+4230096,Is not in any EP rules,
+4240915, Web APP攻击,未知
+4244534,Is not in any EP rules,
+4244535,Is not in any EP rules,
+4244536,Is not in any EP rules,
+4244537,Is not in any EP rules,
+4244538,Is not in any EP rules,
+4244539,Is not in any EP rules,
+4244540,Is not in any EP rules,
+4244541,Is not in any EP rules,
+4244542,Is not in any EP rules,
+4244543,Is not in any EP rules,
+4244544,Is not in any EP rules,
+4244545,Is not in any EP rules,
+4244546,Is not in any EP rules,
+4244547,Is not in any EP rules,
+4244548,Is not in any EP rules,
+4244549,Is not in any EP rules,
+4244550,Is not in any EP rules,
+4244551,Is not in any EP rules,
+4244552,Is not in any EP rules,
+4244553,Is not in any EP rules,
+4244554,Is not in any EP rules,
+4244555,Is not in any EP rules,
+4244556,Is not in any EP rules,
+4244557,Is not in any EP rules,
+4244558,Is not in any EP rules,
+4244559,Is not in any EP rules,
+4244560,Is not in any EP rules,
+4244561,Is not in any EP rules,
+4244562,Is not in any EP rules,
+4244563,Is not in any EP rules,
+4244564,Is not in any EP rules,
+4244565,Is not in any EP rules,
+4244566,Is not in any EP rules,
+4244567,Is not in any EP rules,
+4244568,Is not in any EP rules,
+4244569,Is not in any EP rules,
+4244570,Is not in any EP rules,
+4244571,Is not in any EP rules,
+4244572,Is not in any EP rules,
+4244573,Is not in any EP rules,
+4244574,Is not in any EP rules,
+4244575,Is not in any EP rules,
+4244576,Is not in any EP rules,
+4244577,Is not in any EP rules,
+4244578,Is not in any EP rules,
+4244579,Is not in any EP rules,
+4244580,Is not in any EP rules,
+4244581,Is not in any EP rules,
+4244582,Is not in any EP rules,
+4244583,Is not in any EP rules,
+4244584,Is not in any EP rules,
+4244585,Is not in any EP rules,
+4244586,Is not in any EP rules,
+4244587,Is not in any EP rules,
+4244588,Is not in any EP rules,
+4244589,Is not in any EP rules,
+4244590,Is not in any EP rules,
+4244591,Is not in any EP rules,
+4244592,Is not in any EP rules,
+4244593,Is not in any EP rules,
+4244594,Is not in any EP rules,
+4244595,Is not in any EP rules,
+4244596,Is not in any EP rules,
+4244597,Is not in any EP rules,
+4244598,Is not in any EP rules,
+4244599,Is not in any EP rules,
+4244600,Is not in any EP rules,
+4244601,Is not in any EP rules,
+4244602,Is not in any EP rules,
+4244603,Is not in any EP rules,
+4244604,Is not in any EP rules,
+4244605,Is not in any EP rules,
+4244606,Is not in any EP rules,
+4244607,Is not in any EP rules,
+4244608,Is not in any EP rules,
+4244609,Is not in any EP rules,
+4244610,Is not in any EP rules,
+4244611,Is not in any EP rules,
+4244612,Is not in any EP rules,
+4244613,Is not in any EP rules,
+4244614,Is not in any EP rules,
+4244615,Is not in any EP rules,
+4244616,Is not in any EP rules,
+4244617,Is not in any EP rules,
+4244618,Is not in any EP rules,
+4244619,Is not in any EP rules,
+4244620,Is not in any EP rules,
+4244621,Is not in any EP rules,
+4244622,Is not in any EP rules,
+4244624,Is not in any EP rules,
+4244625,Is not in any EP rules,
+4244626,Is not in any EP rules,
+4244627,Is not in any EP rules,
+4244628,Is not in any EP rules,
+4244629,Is not in any EP rules,
+4244630,Is not in any EP rules,
+4244631,Is not in any EP rules,
+4244632,Is not in any EP rules,
+4244633,Is not in any EP rules,
+4245035,Is not in any EP rules,
+4245036,Is not in any EP rules,
+4260020, 针对web服务的DOS攻击,次数不满足
+4260022, Apache Solr服务任意XSLT文件包含漏洞攻击,未知
